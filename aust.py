@@ -15,8 +15,8 @@ url = 'http://10.255.0.19/a41.js?version=1618299938425'
 
 data = {
     "callback": "dr1003",
-    "DDDDD": "学号@aust",
-    "upass": "密码",
+    "DDDDD": "学号@aust",  ##这里输入学号
+    "upass": "密码",      ## 这里输入校园网的密码
     "0MKKey": "123456",
     "R1": "0",
     "R3": "0",
